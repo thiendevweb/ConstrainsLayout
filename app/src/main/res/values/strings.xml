@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="tr_n_nh_thi_n">Trần Đỉnh Thiên</string>
+    <string name="happy_birthday">Happy Birthday</string>
+    <string name="button">Button</string>
+    <string name="button2">Button</string>
+</resources>

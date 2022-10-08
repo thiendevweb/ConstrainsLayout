@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--
+    Below we show custom_drawable.xml file and create a
+    gradient background color using style attribute.
+    -->
+    <gradient
+        android:startColor="#B71BD3"
+        android:centerColor="#2E978B"
+        android:endColor="#2D5511" />
+</shape>
